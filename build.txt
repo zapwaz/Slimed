@@ -1,0 +1,3 @@
+displayName = Slimed
+author = Zapwaz
+version = 0.1
